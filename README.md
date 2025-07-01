@@ -1,6 +1,6 @@
 # TTS Audiobook Generator from Public Domain Books
 
-This project builds an automated pipeline to turn any public domain book from [Project Gutenberg](https://www.gutenberg.org/) into a modern, listener-friendly audiobook using OpenAI's text generation and ElevenLabs' TTS engine. The final results are published on YouTube via the channel [Once Upon A Classic](https://www.youtube.com/@onceuponaclassic).
+This project builds an automated pipeline to turn any public domain book from [Project Gutenberg](https://www.gutenberg.org/) into a modern, listener-friendly audiobook using OpenAI's text generation and ElevenLabs' TTS engine. The final results are published on YouTube via the channel [Once Upon A Classic](https://www.youtube.com/@once_upon_a_classic).
 
 ##  Project by
 Shawn Wilson
